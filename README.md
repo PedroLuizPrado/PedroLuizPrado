@@ -10,7 +10,7 @@
 <br>
 
 - 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP
-- 💻 Estudando Para ser um programador full-stack
+- 💻 Estudando pra ser um programador full-stack
 - 👽 PT-BR and US English speaker
 
 
