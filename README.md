@@ -1,33 +1,28 @@
-### Oii eu sou o murillo aproveite e fique à vontade!
+### Olá me Chamo Pedro Luiz  e fique à vontade e espero que goste do meu perfil!
 
 <div>
     <img align="right" width="48%" alt="Octocat" src="https://github.com/mulliru/mulliru/blob/main/mulliru-octo.png" />
     <blockquote>
-    Eu sou o Murillo Ferreira, e aqui está um pouco do que ja desenvolvi, fique a vontade para dar uma olhada
+    Seja bem-vindo, aqui está uma amostra dos meus projetos para você conhecer o melhor de mim! 
     </blockquote>
 </div>
 
 <br>
 
 - 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP
-- 📘 Formado Análise e desenvolvimento de sistemas - ETEC Sebrae
-- 💻 Estudando Gestão de projetos e FRONTEND 
+- 💻 Estudando Para ser um programador full-stack
 - 👽 PT-BR and US English speaker
 
 
   <br>
 
 <div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/murillo-ferreira-38a938192/" target="_blank">
+  <a href="www.linkedin.com/in/pedro-luiz-prado-39a566205">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
-  <a href="mailto:murilloferreira348@gmail.com">
+  <a href="mailto:pedrolpsp2@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href="https://www.twitch.tv/mulliru" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
-
 </div>
