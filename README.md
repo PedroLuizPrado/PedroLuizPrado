@@ -14,6 +14,9 @@
 - 💻 Estudando pra ser um programador full-stack
 - 👽 PT-BR and US English speaker
 - 💬 Tenho conhecimentos de: **react,Typescript,Next.js,JS,Python,Java,SQL,HMTL,CSS**
+- <a href="mailto:pedrolpsp2@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
 
   <br>
@@ -34,8 +37,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
-  <a href="mailto:pedrolpsp2@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  
   
 </div>
