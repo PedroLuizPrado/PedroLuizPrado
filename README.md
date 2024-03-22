@@ -17,8 +17,10 @@
 - <a href="mailto:pedrolpsp2@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroluizprado&" alt="pedroluizprado" /></p>
-<div style="display: flex; gap: 10px;">
+  <a href="www.linkedin.com/in/pedro-luiz-prado-39a566205">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+
 
 
   <br>
@@ -33,11 +35,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroluizprado&show_icons=true&locale=en" alt="pedroluizprado" /></p>
 
-
-  <a href="www.linkedin.com/in/pedro-luiz-prado-39a566205">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroluizprado&" alt="pedroluizprado" /></p>
+<div style="display: flex; gap: 10px;"> 
   
   
 </div>
