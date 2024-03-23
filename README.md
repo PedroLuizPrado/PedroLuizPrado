@@ -2,13 +2,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroLuizPrado&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&custom_title=Linguagens%20mais%20utilizadas%20" height="350" alt="languages graph"  />
-</div>
+<h2 align="left">Seja bem-vindo, aqui está uma amostra dos meus projetos para você conhecer o melhor de mim!</h2>
 
 ###
 
-<h3 align="left">Seja bem-vindo, aqui está uma amostra dos meus projetos para você conhecer o melhor de mim!</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroLuizPrado&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=prussian&hide_border=true&custom_title=Linguagens%20mais%20utilizadas%20" height="300" alt="languages graph"  />
+</div>
 
 ###
 
@@ -62,14 +62,14 @@
 
 ###
 
-<h4 align="left">- 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP<br>- 💻 Estudando pra ser um programador full-stack<br>- 👽 PT-BR and US English speaker</h4>
-
-###
-
-<img align="right" height="300" src="https://media.discordapp.net/attachments/707696293966774332/1221124532706738376/Pedro-octo.png.png?ex=66116fd7&is=65fefad7&hm=893baec289de3a7f9338edcc7af22d0278f31507972194c264d1f70ce2f9a7af&=&format=webp&quality=lossless&width=559&height=559"  />
+<h3 align="left">- 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP<br>- 💻 Estudando pra ser um programador full-stack<br>- 👽 PT-BR and US English speaker</h3>
 
 ###
 
 <h3 align="left">Veja também meus projetos na minha aba de repositórios! Espero que goste deles!</h3>
+
+###
+
+<img align="right" height="350" src="https://media.discordapp.net/attachments/707696293966774332/1221124532706738376/Pedro-octo.png.png?ex=66116fd7&is=65fefad7&hm=893baec289de3a7f9338edcc7af22d0278f31507972194c264d1f70ce2f9a7af&=&format=webp&quality=lossless&width=559&height=559"  />
 
 ###
