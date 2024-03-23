@@ -2,17 +2,17 @@
 
 ###
 
-<h3 align="left">Seja bem-vindo, aqui está uma amostra dos meus projetos para você conhecer o melhor de mim!</h3>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroLuizPrado&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&custom_title=Linguagens%20mais%20utilizadas%20" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroLuizPrado&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&custom_title=Linguagens%20mais%20utilizadas%20" height="350" alt="languages graph"  />
 </div>
 
 ###
 
-<h4 align="left">Linguagens e ferramentas que tenho conhecimento!</h4>
+<h3 align="left">Seja bem-vindo, aqui está uma amostra dos meus projetos para você conhecer o melhor de mim!</h3>
+
+###
+
+<h2 align="left">Linguagens e ferramentas que tenho conhecimento!</h2>
 
 ###
 
@@ -44,10 +44,6 @@
 
 ###
 
-<h4 align="left">Meios de contato!</h4>
-
-###
-
 <div align="left">
   <a href="385902182127501322" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -62,10 +58,18 @@
 
 ###
 
+<h2 align="left">Meios de contato!</h2>
+
+###
+
+<h4 align="left">- 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP<br>- 💻 Estudando pra ser um programador full-stack<br>- 👽 PT-BR and US English speaker</h4>
+
+###
+
 <img align="right" height="300" src="https://media.discordapp.net/attachments/707696293966774332/1221124532706738376/Pedro-octo.png.png?ex=66116fd7&is=65fefad7&hm=893baec289de3a7f9338edcc7af22d0278f31507972194c264d1f70ce2f9a7af&=&format=webp&quality=lossless&width=559&height=559"  />
 
 ###
 
-<h6 align="left">- 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP<br>- 💻 Estudando pra ser um programador full-stack<br>- 👽 PT-BR and US English speaker</h6>
+<h3 align="left">Veja também meus projetos na minha aba de repositórios! Espero que goste deles!</h3>
 
 ###
