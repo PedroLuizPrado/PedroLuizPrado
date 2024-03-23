@@ -62,14 +62,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PedroLuizPrado/PedroLuizPrado/output/snake.svg" alt="Snake animation" />
+<img align="right" height="300" src="https://media.discordapp.net/attachments/707696293966774332/1221124532706738376/Pedro-octo.png.png?ex=66116fd7&is=65fefad7&hm=893baec289de3a7f9338edcc7af22d0278f31507972194c264d1f70ce2f9a7af&=&format=webp&quality=lossless&width=559&height=559"  />
 
 ###
 
-<img align="right" height="170" src="https://media.discordapp.net/attachments/707696293966774332/1221124532706738376/Pedro-octo.png.png?ex=66116fd7&is=65fefad7&hm=893baec289de3a7f9338edcc7af22d0278f31507972194c264d1f70ce2f9a7af&=&format=webp&quality=lossless&width=559&height=559"  />
-
-###
-
-<h6 align="left">- 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP<br>- 💻 Estudando pra ser um programador full-stack<br>- 👽 PT-BR and US English speaker<br>- 💬 Tenho conhecimentos de: **react,Typescript,Next.js,JS,Python,Java,SQL,HMTL,CSS**</h6>
+<h6 align="left">- 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP<br>- 💻 Estudando pra ser um programador full-stack<br>- 👽 PT-BR and US English speaker</h6>
 
 ###
