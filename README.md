@@ -1,42 +1,75 @@
-<h1 align="center">Olá 👋, Me chamo Pedro Luiz Prado</h1>
-<h3 align="center">Sou um desenvolvedor nas áreas de Front-End e Back-End</h3>
+<h2 align="left">Olá Me chamo Pero Luiz👋! Sou um desenvolvedor nas áreas de Front-End e Back-End!</h2>
 
-<div>
-    <img align="right" width="48%" alt="Octocat" src="https://github.com/PedroLuizPrado/PedroLuizPrado/blob/main/Pedro-octo.png.png" />
-    <blockquote>
-    Seja bem-vindo, aqui está uma amostra dos meus projetos para você conhecer o melhor de mim! 
-    </blockquote>
+###
+
+<h3 align="left">Seja bem-vindo, aqui está uma amostra dos meus projetos para você conhecer o melhor de mim!</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroLuizPrado&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&custom_title=Linguagens%20mais%20utilizadas%20" height="125" alt="languages graph"  />
 </div>
 
-<br>
+###
 
-- 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP
-- 💻 Estudando pra ser um programador full-stack
-- 👽 PT-BR and US English speaker
-- 💬 Tenho conhecimentos de: **react,Typescript,Next.js,JS,Python,Java,SQL,HMTL,CSS**
-- <a href="mailto:pedrolpsp2@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="www.linkedin.com/in/pedro-luiz-prado-39a566205">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+<h4 align="left">Linguagens e ferramentas que tenho conhecimento!</h4>
 
+###
 
-
-  <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Linguagens e ferramentas que tenho conhecimento:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroluizprado&show_icons=true&locale=en&layout=compact" alt="pedroluizprado" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroluizprado&show_icons=true&locale=en" alt="pedroluizprado" /></p>
-
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroluizprado&" alt="pedroluizprado" /></p>
-<div style="display: flex; gap: 10px;"> 
-  
-  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
+
+###
+
+<h4 align="left">Meios de contato!</h4>
+
+###
+
+<div align="left">
+  <a href="385902182127501322" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="pedrolpsp2@gmail.com " target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/pedro-luiz-prado-39a566205" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/PedroLuizPrado/PedroLuizPrado/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" height="170" src="https://media.discordapp.net/attachments/707696293966774332/1221124532706738376/Pedro-octo.png.png?ex=66116fd7&is=65fefad7&hm=893baec289de3a7f9338edcc7af22d0278f31507972194c264d1f70ce2f9a7af&=&format=webp&quality=lossless&width=559&height=559"  />
+
+###
+
+<h6 align="left">- 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP<br>- 💻 Estudando pra ser um programador full-stack<br>- 👽 PT-BR and US English speaker<br>- 💬 Tenho conhecimentos de: **react,Typescript,Next.js,JS,Python,Java,SQL,HMTL,CSS**</h6>
+
+###
