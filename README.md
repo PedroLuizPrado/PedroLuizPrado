@@ -1,18 +1,8 @@
-<h2 align="left">Olá Me chamo Pero Luiz👋! Sou um desenvolvedor nas áreas de Front-End e Back-End!</h2>
+<h1 align="center">Muito prazer me chamo Pedro Luiz! <br>      Seja bem-vindo ao meu GitHub</h1>
 
 ###
 
-<h2 align="left">Seja bem-vindo, aqui está uma amostra dos meus projetos para você conhecer o melhor de mim!</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroLuizPrado&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=prussian&hide_border=true&custom_title=Linguagens%20mais%20utilizadas%20" height="300" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">Linguagens e ferramentas que tenho conhecimento!</h2>
+<h2 align="left">Aqui são algumas linguagens que venho obtendo mais conhecimento a cada dia!</h2>
 
 ###
 
@@ -40,6 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
 </div>
 
 ###
@@ -66,10 +62,6 @@
 
 ###
 
-<h3 align="left">Veja também meus projetos na minha aba de repositórios! Espero que goste deles!</h3>
-
-###
-
-<img align="right" height="350" src="https://media.discordapp.net/attachments/707696293966774332/1221124532706738376/Pedro-octo.png.png?ex=66116fd7&is=65fefad7&hm=893baec289de3a7f9338edcc7af22d0278f31507972194c264d1f70ce2f9a7af&=&format=webp&quality=lossless&width=559&height=559"  />
+<h3 align="left">Aqui você vai encontrar alguns projetos feitos em sala de aula e projetos próprios, espero que goste!</h3>
 
 ###
