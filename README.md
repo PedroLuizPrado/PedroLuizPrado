@@ -58,7 +58,8 @@
 
 ###
 
-<h3 align="left">- 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP<br>- 💻 Estudando pra ser um programador full-stack<br>- 👽 PT-BR and US English speaker</h3>
+<h3 align="left">- 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP<br>- 💻 Estudando pra ser um programador full-stack<br>- 🌎
+  PT-BR and US English speaker</h3>
 
 ###
 
