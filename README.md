@@ -58,7 +58,8 @@
 
 ###
 
-<h3 align="left">- 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP<br>- 💻 Estudando pra ser um programador full-stack<br>- 🌎
+<h3 align="left">- 🎓 Formado Análise e desenvolvimento de sistemas - FIAP<br></h3>
+<h3 align="left">- 🎓 Cursando Ciência da Computação - Cruzeidro do Sul<br>- 💻 Estudando pra ser um programador full-stack<br>- 🌎
   PT-BR and US English speaker</h3>
 
 ###
