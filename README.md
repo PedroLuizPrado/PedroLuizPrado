@@ -1,54 +1,55 @@
-<h1 align="center">Muito prazer me chamo <br>Pedro Luiz!</h1>
+<!-- Header com logo da Nokia -->
+<p align="center">
+  <a href="https://www.nokia.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Nokia_2023.svg/1280px-Nokia_2023.svg.png" width="240" alt="Nokia Logo"/>
+  </a>
+</p>
 
-###
+<h1 align="center">Muito prazer, eu sou o Pedro Luiz! 👋</h1>
 
-<h3 align="center">Aqui são algumas linguagens que venho obtendo mais conhecimento a cada dia!</h3>
+<p align="center">
+  Dev na Nokia • Formado em ADS (FIAP) • Cursando Ciência da Computação (Cruzeiro do Sul) • Inglês avançado
+</p>
 
-###
+---
 
+### 🚀 Sobre mim
+- 🧑‍💻 Desenvolvedor na <b>Nokia</b> com foco em soluções e automações  
+- 🎓 Formado em <b>Análise e Desenvolvimento de Sistemas</b> pela FIAP  
+- 🧠 Cursando <b>Ciência da Computação</b> (Cruzeiro do Sul)  
+- 🌎 Inglês avançado
+
+---
+
+### 🧩 Stack & Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,html,css,js,python,java,csharp,cs,dotnet,kotlin" height="60" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=oracle,mysql,azure,git,pandas" height="60" />
 </div>
 
-###
+---
 
-<h4 align="center">Estes são meus meio de contato!</h4>
-
-###
-
+### 🌐 Onde me encontrar
 <div align="center">
-  <a href="www.linkedin.com/in/pedroluizprado" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/pedroluizprado" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" />
   </a>
-  <a href="pedrolpsp2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:pedrolpsp2@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://github.com/PedroLuizPrado" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-PedroLuizPrado-000?style=for-the-badge&logo=github" height="28" />
   </a>
 </div>
 
-###
+---
+
+### 🎓 Formações
+- ✅ FIAP — Análise e Desenvolvimento de Sistemas (concluído)  
+- 📚 Cruzeiro do Sul — Ciência da Computação (cursando)
+
+<!--
+🖼️ Dica: quer usar um GIF do logo?
+Substitua o <img> do topo por um GIF próprio/animado do logo da Nokia (mantendo créditos da fonte).
+-->
