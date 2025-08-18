@@ -17,7 +17,7 @@
 - 🧑‍💻 Desenvolvedor na <b>Nokia</b> com foco em soluções e automações  
 - 🎓 Formado em <b>Análise e Desenvolvimento de Sistemas</b> pela FIAP  
 - 🧠 Cursando <b>Ciência da Computação</b> (Cruzeiro do Sul)  
-- 🌎 Inglês avançado
+- 🌎 Inglês intermediário
 
 ---
 
