@@ -8,7 +8,7 @@
 <h1 align="center">Muito prazer, eu sou o Pedro Luiz! 👋</h1>
 
 <p align="center">
-  Dev na Nokia • Formado em ADS (FIAP) • Cursando Ciência da Computação (Cruzeiro do Sul) • Inglês avançado
+  Dev na Nokia • Formado em ADS (FIAP) • Cursando Ciência da Computação (Cruzeiro do Sul) • Inglês intermediário
 </p>
 
 ---
